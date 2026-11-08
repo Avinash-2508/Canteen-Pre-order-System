@@ -1,3 +1,0 @@
-*.sh text eol=lf
-Containerfile text eol=lf
-*.template text eol=lf
